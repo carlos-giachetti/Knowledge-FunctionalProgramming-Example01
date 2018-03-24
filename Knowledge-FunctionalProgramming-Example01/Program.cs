@@ -36,7 +36,8 @@ namespace FunctionalProgramming.Example01
 
         private static void reportProjectName()
         {
-            Console.WriteLine("Knowledge-FunctionalProgramming-Example01\n");
+            Console.WriteLine("Knowledge-FunctionalProgramming-Example01");
+            Console.WriteLine("-----------------------------------------\n");
         }
 
         private static void reportResult(string message, int result)
